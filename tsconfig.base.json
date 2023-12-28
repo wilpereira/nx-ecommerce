@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@nx-ecommerce/layout": ["modules/feature/src/index.ts"]
+      "@nx-ecommerce/layout": ["modules/feature/layout/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
