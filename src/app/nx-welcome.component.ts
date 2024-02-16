@@ -420,7 +420,7 @@ import { Component, ViewEncapsulation } from '@angular/core';
         <div id="welcome">
           <h1>
             <span> Hello there, </span>
-            Welcome nx-ecommercee 👋
+            Welcome nx-ecommerce 👋
           </h1>
         </div>
         <!--  HERO  -->

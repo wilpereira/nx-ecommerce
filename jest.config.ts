@@ -1,9 +1,9 @@
 /* eslint-disable */
 export default {
-  displayName: 'nx-ecommercee',
+  displayName: 'nx-ecommerce',
   preset: './jest.preset.js',
   setupFilesAfterEnv: ['<rootDir>/src/test-setup.ts'],
-  coverageDirectory: './coverage/nx-ecommercee',
+  coverageDirectory: './coverage/nx-ecommerce',
   transform: {
     '^.+\\.(ts|mjs|js|html)$': [
       'jest-preset-angular',
